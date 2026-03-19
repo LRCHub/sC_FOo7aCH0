@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "[oops]",
+  "base_artist": "potsu",
+  "createdAt": "2026-03-19T13:50:25.730902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Oops (Oh My)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/01_Oops_(Oh_My)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Oops Oh My",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/02_Oops_Oh_My_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oops!... I Did It Again",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Haley Reinhart",
+      "has_synced": true,
+      "path": "select/03_Oops!..._I_Did_It_Again_Scott_Bradlee's_Postmodern_Jukebox_feat._Haley_Reinhart.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oops... I Did It Again",
+      "artist": "Children of Bodom",
+      "has_synced": true,
+      "path": "select/04_Oops..._I_Did_It_Again_Children_of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oops I Dit It Again (Britney Spears)",
+      "artist": "Children Of Bodom",
+      "has_synced": true,
+      "path": "select/05_Oops_I_Dit_It_Again_(Britney_Spears)_Children_Of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oops (Mix Version)",
+      "artist": "Little Mix feat. Charlie Puth",
+      "has_synced": false,
+      "path": "select/06_Oops_(Mix_Version)_Little_Mix_feat._Charlie_Puth.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "OOPS",
+      "artist": "King",
+      "has_synced": true,
+      "path": "select/07_OOPS_King.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oops!...I Did It Again",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/08_Oops!...I_Did_It_Again_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oops!...I Did It Again",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/09_Oops!...I_Did_It_Again_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oops!... I Did It Again",
+      "artist": "Zebrahead",
+      "has_synced": false,
+      "path": "select/10_Oops!..._I_Did_It_Again_Zebrahead.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Heart Went Oops",
+      "artist": "Tiagz",
+      "has_synced": true,
+      "path": "select/11_My_Heart_Went_Oops_Tiagz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hit 'Em Up Style (Oops!)",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Olivia Kuper Harris",
+      "has_synced": false,
+      "path": "select/12_Hit_'Em_Up_Style_(Oops!)_Scott_Bradlee's_Postmodern_Jukebox_feat._Olivia_Kuper_Harris.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hit 'Em up Style (Oops!)",
+      "artist": "Blu Cantrell",
+      "has_synced": true,
+      "path": "select/13_Hit_'Em_up_Style_(Oops!)_Blu_Cantrell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "[oops]",
+      "artist": "potsu",
+      "has_synced": false,
+      "path": "select/pl_01_[oops]_potsu.txt"
+    }
+  ]
+}
